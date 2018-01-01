@@ -1,4 +1,6 @@
-# Project Description
+# Amazon Web Services (AWS) Simple Email Service (SES) SMTP Credential Generator
+
+## Project Description
 This utility converts an Amazon Web Services (AWS) Identity and Access Management (IAM) user Access Key secret key into an SES SMTP password.
 
 ## What does this utility do?
